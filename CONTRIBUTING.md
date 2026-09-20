@@ -12,6 +12,7 @@ Thank you for contributing to Rebel Federation projects.
 
 - Create feature branches from `develop` for implementation work.
 - Open pull requests against `develop`.
+- Delete feature branches after they are merged into `develop`.
 - When `develop` is stable and ready for production deployment, create a release branch from `develop`.
 - The release branch's CI/CD pipeline deploys the repository to production.
 - After a successful release, merge the release branch into `main`.
