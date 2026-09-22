@@ -8,6 +8,15 @@ Thank you for contributing to Rebel Federation projects.
 2. Open an issue before starting a large change so the approach can be discussed.
 3. Keep changes focused and explain the user impact.
 
+## Branching Strategy
+
+- Create feature branches from `develop` for implementation work.
+- Open pull requests against `develop`.
+- Delete feature branches after they are merged into `develop`.
+- When `develop` is stable and ready for production deployment, create a release branch from `develop`.
+- The release branch's CI/CD pipeline deploys the repository to production.
+- After a successful release, merge the release branch into `main`.
+
 ## Pull requests
 
 - Use a clear title that describes the change.
