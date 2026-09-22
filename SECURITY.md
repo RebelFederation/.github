@@ -4,7 +4,7 @@
 
 Please do not report security vulnerabilities in a public issue.
 
-Use GitHub's private vulnerability reporting feature when it is enabled for the affected repository. Otherwise, contact the repository maintainers privately through the security contact listed in that repository.
+Join the [Rebel Federation Discord](https://discord.gg/E9KsgYZ) and get in touch with Team Atlas.
 
 Include:
 
